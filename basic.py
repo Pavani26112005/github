@@ -1,0 +1,6 @@
+A = int(input("Enter a Number: "))
+Name = input("enter a Number: ")
+print(A)
+print(Name)
+print(type(A))
+print(type(Name))
